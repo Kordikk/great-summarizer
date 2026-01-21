@@ -8,7 +8,7 @@ A Chrome extension that uses AI to summarize YouTube videos, helping you decide 
 
 ## Features
 
-- **AI-Powered Summaries** — Get structured summaries with overview, key points, and quick verdict using Google's Gemini 1.5 Flash
+- **AI-Powered Summaries** — Get structured summaries with overview, key points, and quick verdict using Google's Gemini 3 Flash
 - **Chapter Timestamps** — Clickable timestamps that jump to specific sections of the video
 - **Summary Caching** — Previously summarized videos load instantly from cache
 - **History** — Browse all your past summaries with thumbnails and timestamps
