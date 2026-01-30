@@ -4,7 +4,11 @@ A Chrome extension that uses AI to summarize YouTube videos, helping you decide 
 
 ![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white)
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-green)
-![Gemini API](https://img.shields.io/badge/Gemini-1.5_Flash-blue)
+![Gemini API](https://img.shields.io/badge/Gemini-3_Flash-blue)
+
+
+https://github.com/user-attachments/assets/b28d2d11-ceb9-48ae-b405-60afb82a6a1e
+
 
 ## Features
 
